@@ -1,0 +1,57 @@
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe.config
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\RxMeetup.pdb
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Core.dll
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Linq.dll
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.PlatformServices.dll
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Windows.Threading.dll
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Core.xml
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Linq.xml
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.PlatformServices.xml
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Windows.Threading.xml
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\obj\Debug\RxMeetup.csprojResolveAssemblyReference.cache
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\obj\Debug\RxMeetup.exe
+c:\users\jvinyes\documents\visual studio 2015\Projects\RxMeetup\RxMeetup\obj\Debug\RxMeetup.pdb
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe.config
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.exe
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.pdb
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\RxMeetup.pdb
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.csprojResolveAssemblyReference.cache
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe.config
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.exe
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.pdb
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.csprojResolveAssemblyReference.cache
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\RxMeetup.pdb
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Core.dll
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Linq.dll
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Core.xml
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Linq.xml
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\jvinyes\Desktop\RxMeetup\RxMeetup\RxMeetup\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Jaume\Desktop\New folder\RxMeetup\RxMeetup\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe.config
+C:\Users\Jaume\Desktop\New folder\RxMeetup\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.exe
+C:\Users\Jaume\Desktop\New folder\RxMeetup\RxMeetup\RxMeetup\RxMeetup\obj\Debug\RxMeetup.pdb
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\bin\Debug\RxMeetup.exe.config
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\obj\Debug\RxMeetup.exe
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\obj\Debug\RxMeetup.pdb
+C:\Users\Jaume\Source\Repos\IntroRx\RxMeetup\bin\Debug\RxMeetup.exe.config
+C:\Users\Jaume\Source\Repos\IntroRx\RxMeetup\obj\Debug\RxMeetup.exe
+C:\Users\Jaume\Source\Repos\IntroRx\RxMeetup\obj\Debug\RxMeetup.pdb

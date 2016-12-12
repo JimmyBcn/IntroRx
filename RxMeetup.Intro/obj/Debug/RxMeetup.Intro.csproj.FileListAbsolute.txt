@@ -1,0 +1,16 @@
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\RxMeetup.Intro.exe.config
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\RxMeetup.Intro.exe
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\RxMeetup.Intro.pdb
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\obj\Debug\RxMeetup.Intro.exe
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\obj\Debug\RxMeetup.Intro.pdb
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\obj\Debug\RxMeetup.Intro.csprojResolveAssemblyReference.cache
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Jaume\Desktop\RxMeetup\RxMeetup\RxMeetup.Intro\bin\Debug\System.Reactive.Windows.Threading.xml
