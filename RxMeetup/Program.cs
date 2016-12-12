@@ -13,15 +13,15 @@ namespace RxMeetup
 
     static void Main(string[] args)
     {
-      /*
+      
       // Get the observable sequence
-      //IObservable<int> observable = new Range().GetObservable();
+      IObservable<int> observable = new Range().GetObservable();
       //IObservable<int> observable = new Interval().GetObservable();
       //Win Forms Samples
       //IObservable<int> observable = new Combined().GetObservable();
       //IObservable<int> observable = new Create_Blocking().GetObservable();
       //IObservable<int> observable = new Create_NonBlocking().GetObservable();
-      IObservable<int> observable = new Create_Nonblocking_Cancellable().GetObservable();
+      //IObservable<int> observable = new Create_Nonblocking_Cancellable().GetObservable();
       
       // Get the observer
       //IObserver<int> observer = new SimpleObserver().GetObserver();
@@ -37,7 +37,7 @@ namespace RxMeetup
       subscription.Dispose();
       Console.WriteLine("Press ENTER to finish...");
       Console.ReadLine();
-      */
+      
 
 
       //// HOT AND COLD OBSERVABLES
